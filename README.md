@@ -3,6 +3,8 @@
 The HP Filter Macro Workbook is a collection of functions that calculate the one-sided and two-sided Hodrick-Prescott filters.
 The functions are availbale as both a VBA .bas file for developers, as well an easy-to-use Excel macro workbook with examples.
 
+The latest version of the Excel workbook can be found in the [Releases](https://github.com/alexandrumonahov/hpfilterexcel/releases/tag/hp) section.
+
 ## HPONE - The One-Sided Hodrick-Prescott Filter
 
 **HPONE(data, lambda, direction)**
