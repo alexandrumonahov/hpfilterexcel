@@ -37,7 +37,9 @@ data to be transformed, then enter the function and arguments, and finally press
 ## About
 
 This version of the HP Filter macro was written by Alexandru Monahov
+
 It builds upon the original filters and add-on developed by Kurt Annen
+
 This new version has several improvements in functionality:
 1) It extends to the one-sided HP filter the ability to process several series at the same time. Previously, this functionality
    was only available in the two-sided HP filter macro implementation.
